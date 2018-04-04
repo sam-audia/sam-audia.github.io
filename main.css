@@ -1,0 +1,78 @@
+#nav-header {
+    padding: 10px;
+    padding-right: 50px;
+    background: #e9ecef;
+}
+
+div#main-container {
+    padding: 0px;
+}
+
+div#header-container {
+    margin-top: -60px;
+    padding-left: 15vw;
+    padding-top: 20vh;
+    padding-right: 10vw;
+    padding-bottom: 15vh;
+}
+
+div#about-container { 
+    padding-left: auto;
+    padding-top: 12vh;
+    padding-left: auto;
+    padding-bottom: 15vh;
+}
+
+div#about-container p{
+    line-height: 2.5em;
+}
+
+div.inner-container {
+    width:80vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div#challenge-container {
+    padding-left: auto;
+    padding-top: 12vh;
+    padding-right: auto;
+    padding-bottom: 20vh;
+}
+
+@media (min-width: 992px) {
+    div#middle-column {
+        border-right: 1px solid #17a2b8;
+        border-left: 1px solid #17a2b8;
+    }
+}
+
+div#footer {
+    height: 100px;
+    padding-top: 40px;
+    padding-left: 25px;
+    font-weight: 300;
+    background-color: #333333;
+    color: #eeeeee;
+    margin-top: 0px;
+}
+
+a#call-btn {
+    margin-top: 10vh;
+}
+
+h2, h1, h3, h4 {
+    font-weight: 300;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.path-table a {
+    color: #17a2b8;
+}
+
+.path-table a:hover {
+    color: #666666;
+}
