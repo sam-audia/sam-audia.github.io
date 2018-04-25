@@ -40,10 +40,17 @@ div#challenge-container {
     padding-bottom: 20vh;
 }
 
+div#middle-column {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
 @media (min-width: 992px) {
     div#middle-column {
         border-right: 1px solid #17a2b8;
         border-left: 1px solid #17a2b8;
+        padding-top: 0px;
+        padding-bottom: 0px;
     }
 }
 
