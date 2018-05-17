@@ -83,3 +83,21 @@ h1 {
 .path-table a:hover {
     color: #666666;
 }
+
+div#photo-container {
+    padding-left: auto;
+    padding-top: 5vh;
+    padding-left: auto;
+    padding-bottom: 10vh;
+}
+
+div#photo-container img {
+    height: 400px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+div#about {
+    height: 60vh;
+    width: 60vw;
+}
